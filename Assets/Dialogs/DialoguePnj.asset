@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fa29dafe8494af4dab91aac5ba8176d9, type: 3}
-  m_Name: Dialog01
+  m_Name: DialoguePnj
   m_EditorClassIdentifier: 
-  m_Text: "Bienvenue dans mon auberge !\nSi tu veux y rentrer, il te faudra retrouver
-    Jean Hugues perdu dans cette map.\nBonne chance \xE0 toi.  "
-  m_SpeakerAvatar: {fileID: -822619953307990688, guid: 89ce69c9496fd034fa2b8db15a7bc9ec,
+  m_Text: "Hello l'ami! \nMerci de m'avoir retrouv\xE9 l'ami, je pensais \xEAtre perdu
+    \xE0 jamais. \nClique sur le bouton Quit."
+  m_SpeakerAvatar: {fileID: 2982690796557775626, guid: 176461bac82dc3345bdc6c9731c3c9f4,
     type: 3}
